@@ -1,1 +1,0 @@
-<title>Panzer Studio</title>
